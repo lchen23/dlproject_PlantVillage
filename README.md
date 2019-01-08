@@ -14,3 +14,4 @@ All the steps for installing and importing required packages (with versions spec
 To further improve the model performance, one can try to change the following parameters:
 * model architectures in line : `arch=resnet34` 
 * learning rates in line : `lr=np.array([1e-4,1e-3,1e-2])*0.8`.
+* number of training epochs in line : `learn.fit(lr, 3, cycle_len=2, cycle_mult=2, best_save_name='resnet34_best')`
