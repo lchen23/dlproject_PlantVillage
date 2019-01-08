@@ -1,4 +1,4 @@
-# A convolutional neural network based machine learning model for detecting plant diseases
+# A convolutional neural network based plant disease detection system
 
    Our life depends on plants as much as oxygen. Modern agricultural technologies allow us to grow crops in large quantities to sustain a steady food supply for a growing population in the world. However, plant diseases remain a major threat to this supply by significantly decreasing crop production. The situation is particularly dire for the 500 million smallholder farmers in the world, whose livelihoods depend on the well-being of their crops. 
   
