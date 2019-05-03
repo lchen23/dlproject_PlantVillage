@@ -12,7 +12,7 @@
    In the jupyter notebook of this project, I trained a Convolutional Neural Network (CNN) based machine learning model that can detect plant diseases with 99.5% accuracy, using the Pytorch framework and fastai library. To train the model, I use the Plant Village dataset contains plant leaf images of 38 different disease classes and one background class from Stanford's DAGS dataset of background images.
    
    ## Instructions
-All the steps for installing and importing required packages (with versions specified), downloading the dataset, training and evaluating the model were described in detail in the jupyter notebook. To reproduce those results, one just need to re-run all the code cells in sequence.
+   All the steps for installing and importing required packages (with versions specified), downloading the dataset, training and evaluating the model were described in detail in the jupyter notebook. To reproduce those results, one just need to re-run all the code cells in sequence.
 
 To further improve the model performance, one can try to change the following parameters:
 * model architectures : `arch=resnet34` 
